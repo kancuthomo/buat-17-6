@@ -17,7 +17,7 @@ global.APIKeys = {
    'https://api.zeeoneofc.my.id': 'SZTjk43Q', // 👉 login https://api.zeeoneofc.my.id to get apikey
 }
 global.sewabotnya = 
-'6287788617688`
+`6287788617688`
 // setting 
 global.firtsChat = false //send firts message to new user
 global.autoread = true // auto read message
